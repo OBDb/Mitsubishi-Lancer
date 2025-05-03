@@ -1,0 +1,40 @@
+generations:
+  - name: "First Generation (A70)"
+    start_year: 1973
+    end_year: 1979
+    description: "The original Mitsubishi Lancer was introduced as a compact car positioned between the company's Minica kei car and the larger Galant. Available in sedan and wagon body styles, it featured conventional boxy styling typical of the era. Powered by various inline-four engines ranging from 1.2 to 1.6 liters depending on the market. The performance-oriented 1600 GSR variant gained fame through rally victories, establishing the Lancer's motorsport heritage early in its history. This generation was largely sold in Asian markets with limited distribution elsewhere, though it was marketed in some regions as the Dodge Colt through Chrysler's partnership with Mitsubishi."
+
+  - name: "Second Generation (EX)"
+    start_year: 1979
+    end_year: 1983
+    description: "The second-generation Lancer adopted more angular styling with improved aerodynamics. Available in sedan, wagon, and three-door hatchback body styles depending on the market. Engine options included a broader range of four-cylinder units ranging from 1.2 to 1.8 liters, with the introduction of the first diesel Lancer in some markets. This generation expanded global distribution with rebadged versions sold as the Dodge Colt, Plymouth Champ, and Chrysler Lancer in various markets. The performance variant, known as the Lancer EX2000 Turbo, featured a turbocharged engine producing approximately 168 horsepower, further cementing the model's sporting credentials."
+
+  - name: "Third Generation (C10/C30)"
+    start_year: 1983
+    end_year: 1988
+    description: "The third-generation Lancer featured more modern styling with a taller profile for improved interior space, available in sedan and station wagon body styles. Engine options varied by market but typically ranged from 1.3 to 1.8 liters, with both naturally aspirated and turbocharged variants. This generation saw the introduction of the Lancer Fiore, a front-wheel drive variant sold alongside the original rear-wheel drive model in some markets. The high-performance variant, now branded as the first Lancer Turbo, continued the model's motorsport success with advanced features for the time including electronic fuel injection and intercooling."
+
+  - name: "Fourth Generation (C50/C70)"
+    start_year: 1988
+    end_year: 1991
+    description: "The fourth-generation Lancer represented a significant shift with all models now utilizing front-wheel drive architecture. Styling became more rounded in line with automotive trends of the late 1980s. Body styles included sedan, wagon, and in some markets, a five-door hatchback. The engine lineup was refreshed with improved four-cylinder units, including multi-valve technology in higher specifications. This generation is notable for introducing the GTi variant with a 1.8-liter DOHC engine producing approximately 136 horsepower, providing an accessible performance option below the more extreme Evolution models that would later emerge."
+
+  - name: "Fifth Generation (CB/CD/CE)"
+    start_year: 1991
+    end_year: 1995
+    description: "The fifth-generation Lancer featured more rounded, aerodynamic styling and grew slightly in all dimensions. Available primarily as a sedan and wagon, with a coupe version in some markets. This generation is particularly significant for introducing the first Lancer Evolution in 1992, a high-performance variant developed for World Rally Championship competition, featuring a turbocharged 2.0-liter engine, all-wheel drive, and sophisticated suspension. Standard Lancers continued with a range of four-cylinder engines, with improved safety features including available ABS and driver airbags in higher trim levels. Regional variations were substantial, with different styling and equipment depending on the market."
+
+  - name: "Sixth Generation (CK/CM)"
+    start_year: 1995
+    end_year: 2000
+    description: "The sixth-generation Lancer continued the model's evolution with more refined styling and improved interior quality. Available in sedan, wagon, and in some markets, coupe body styles. Engine options were updated with improved efficiency and emissions compliance, ranging from 1.3 to 1.8 liters in standard models. The Lancer Evolution continued through iterations IV, V, and VI during this generation, each offering increased performance and handling capabilities, with the Evo VI producing up to 280 horsepower in some specifications. This generation saw expanded global distribution with the Lancer now available in more markets under the Mitsubishi brand rather than through rebadging arrangements."
+
+  - name: "Seventh Generation (CS/LS/KS)"
+    start_year: 2000
+    end_year: 2007
+    description: "The seventh-generation Lancer featured more distinctive styling with a prominent grille and sharper lines. Available primarily as a sedan and wagon, with the Cedia name used in some markets. The interior saw significant improvements in materials and design, with more modern amenities including available navigation systems in higher trims. Engine options were refreshed with improved four-cylinder units ranging from 1.3 to 2.4 liters depending on the market. The Evolution series continued with the Evo VII, VIII, and IX, featuring increasingly sophisticated technology including active yaw control and more advanced all-wheel drive systems, with power outputs maintained at Japan's voluntary 280 horsepower limit but with improved torque and response. This generation diversified the Lancer lineup with variants including the Ralliart model offering a middle ground between standard models and the extreme Evolution."
+
+  - name: "Eighth Generation (CY/ZH)"
+    start_year: 2007
+    end_year: 2017
+    description: "The eighth and final generation Lancer featured aggressive styling with a distinctive 'shark nose' front end incorporating Mitsubishi's trapezoidal grille design. Offered primarily as a sedan and five-door hatchback (marketed as the Lancer Sportback). The platform was shared with the Outlander SUV, bringing benefits in rigidity and crash protection. Engine options varied by market but typically included 1.5 to 2.4-liter four-cylinders, with a focus on improved efficiency. The Evolution X continued the high-performance tradition with a new aluminum block, variable valve timing, and a sophisticated S-AWC (Super All-Wheel Control) system, though it would be the final Evolution model, discontinued in 2016. The mainstream Lancer received a series of minor updates throughout its extended production run but became increasingly dated compared to competitors, with production gradually phased out across different markets by 2017. Despite its age, it maintained popularity in certain regions due to its reputation for reliability, value, and distinctive styling."
