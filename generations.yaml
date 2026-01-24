@@ -1,3 +1,6 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mitsubishi_Lancer"
+
 generations:
   - name: "First Generation (A70)"
     start_year: 1973
