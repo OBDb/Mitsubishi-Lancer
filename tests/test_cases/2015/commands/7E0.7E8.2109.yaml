@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2109
+test_cases:
+- expected_values:
+    MITSUBISHI_APS_CLOSED_LEARN: -2.34131
+  response: 7E807610900D0000000

@@ -1,0 +1,6 @@
+command_id: 7E1.7E9.2106|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_CVT_SELECTOR_DS: 0
+    MITSUBISHI_CVT_SELECTOR_DS_7E1_06: 1
+  response: 7E90461060A3D
