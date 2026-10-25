@@ -1,0 +1,6 @@
+command_id: 7E0.7E8.2115
+test_cases:
+- expected_values:
+    MITSUBISHI_DPF_ODO: 17408
+    MITSUBISHI_DPF_SOOT: 0
+  response: '7E80761150044000000'

@@ -1,0 +1,7 @@
+command_id: 688.511.2122|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_AC_OUTPUT_MODE: 1
+    MITSUBISHI_AC_OUTPUT_VSS_AS: 0
+    MITSUBISHI_AC_OUTPUT_VSS_DR: 0
+  response: '5110761220000010700'

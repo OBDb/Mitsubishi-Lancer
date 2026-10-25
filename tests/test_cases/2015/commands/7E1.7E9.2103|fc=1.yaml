@@ -1,0 +1,6 @@
+command_id: 7E1.7E9.2103|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_CVT_PRIMARY_VSS: 3840
+    MITSUBISHI_CVT_SECONDARY_VSS: 5056
+  response: 7E90461037A51

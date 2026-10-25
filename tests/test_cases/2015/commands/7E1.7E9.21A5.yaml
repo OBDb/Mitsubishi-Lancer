@@ -1,0 +1,6 @@
+command_id: 7E1.7E9.21A5
+test_cases:
+- expected_values:
+    MITSUBISHI_CLUTCH_1_T: 169
+    MITSUBISHI_CLUTCH_2_T: 134
+  response: 7E90661A500DB00B8

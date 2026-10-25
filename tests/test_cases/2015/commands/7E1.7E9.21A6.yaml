@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.21A6
+test_cases:
+- expected_values:
+    MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 1538
+  response: 7E90661A606020013

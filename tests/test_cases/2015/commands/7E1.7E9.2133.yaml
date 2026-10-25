@@ -1,0 +1,5 @@
+command_id: 7E1.7E9.2133
+test_cases:
+- expected_values:
+    MITSUBISHI_T_M_T: 45
+  response: 7E90461335F00
