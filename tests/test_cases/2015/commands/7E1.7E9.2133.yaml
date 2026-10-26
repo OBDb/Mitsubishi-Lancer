@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     MITSUBISHI_T_M_T: 45
   response: 7E90461335F00
+- expected_values:
+    MITSUBISHI_T_M_T: 58
+  response: 7E90461336C00
