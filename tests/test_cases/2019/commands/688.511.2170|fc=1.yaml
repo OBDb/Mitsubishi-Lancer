@@ -1,0 +1,11 @@
+command_id: 688.511.2170|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_AC_A_C_COMPRESSOR_DRIVE_FLAG: 0
+  response: '5110761700000047800'
+- expected_values:
+    MITSUBISHI_AC_A_C_COMPRESSOR_DRIVE_FLAG: 1
+  response: 5110761700100048D00
+- expected_values:
+    MITSUBISHI_AC_A_C_COMPRESSOR_DRIVE_FLAG: 1
+  response: '5110761700100048E00'

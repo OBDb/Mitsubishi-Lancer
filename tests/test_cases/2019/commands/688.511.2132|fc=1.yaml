@@ -1,0 +1,6 @@
+command_id: 688.511.2132|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_AC_LEAK_INDICATOR: 0
+    MITSUBISHI_AC_LEAK_INDICATOR_20: 1
+  response: '5110761329E00000000'

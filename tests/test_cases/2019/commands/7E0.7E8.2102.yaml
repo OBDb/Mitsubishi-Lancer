@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.2102
+test_cases:
+- expected_values:
+    MITSUBISHI_BP: 0
+    MITSUBISHI_MPI_ECT: 41
+    MITSUBISHI_MPI_IAT: 33
+  response: '7E80761024951000000'
+- expected_values:
+    MITSUBISHI_BP: 0
+    MITSUBISHI_MPI_ECT: 48
+    MITSUBISHI_MPI_IAT: 33
+  response: '7E80761024958000000'
+- expected_values:
+    MITSUBISHI_BP: 0
+    MITSUBISHI_MPI_ECT: 62
+    MITSUBISHI_MPI_IAT: 33
+  response: '7E80761024966000000'
+- expected_values:
+    MITSUBISHI_BP: 0
+    MITSUBISHI_MPI_ECT: 67
+    MITSUBISHI_MPI_IAT: 33
+  response: 7E8076102496B000000
+- expected_values:
+    MITSUBISHI_BP: 0
+    MITSUBISHI_MPI_ECT: 39
+    MITSUBISHI_MPI_IAT: 34
+  response: 7E80761024A4F000000
+- expected_values:
+    MITSUBISHI_BP: 0
+    MITSUBISHI_MPI_ECT: 71
+    MITSUBISHI_MPI_IAT: 34
+  response: 7E80761024A6F000000

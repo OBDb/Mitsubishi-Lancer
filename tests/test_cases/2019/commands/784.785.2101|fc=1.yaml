@@ -1,0 +1,10 @@
+command_id: 784.785.2101|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_ABS_FL_VSS: 0.71
+    MITSUBISHI_ABS_FR_VSS: 0.71
+    MITSUBISHI_ABS_RL_VSS: 0.71
+    MITSUBISHI_ABS_RR_VSS: 0.71
+  response: |-
+    785100A610100470047
+    7852100470047FFFFFF

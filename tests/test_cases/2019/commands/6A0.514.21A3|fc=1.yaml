@@ -1,0 +1,11 @@
+command_id: 6A0.514.21A3|fc=1
+test_cases:
+- expected_values:
+    MITSUBISHI_FLI: 86
+  response: 5140561A3100166
+- expected_values:
+    MITSUBISHI_FLI: 86
+  response: 5140561A3120166
+- expected_values:
+    MITSUBISHI_FLI: 86
+  response: 5140561A3140166
