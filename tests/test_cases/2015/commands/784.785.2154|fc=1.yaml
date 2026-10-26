@@ -1,6 +1,11 @@
 command_id: 784.785.2154|fc=1
 test_cases:
 - expected_values:
+    MITSUBISHI_ODO_784: 64614.4
+  response: |-
+    7851009615402088C09
+    78521DC0204FFFFFFFF
+- expected_values:
     MITSUBISHI_ODO_784: 64588.8
   response: |-
     7851009615402098E09

@@ -1,6 +1,10 @@
 command_id: 7E1.7E9.2104
 test_cases:
 - expected_values:
+    MITSUBISHI_AT_CUR_GEAR: 9
+    MITSUBISHI_TARGET_GEAR_AT_RATIO: 0.58
+  response: 7E9046104093A
+- expected_values:
     MITSUBISHI_AT_CUR_GEAR: 10
     MITSUBISHI_TARGET_GEAR_AT_RATIO: 0.71
   response: 7E90461040A47
