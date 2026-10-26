@@ -1,0 +1,22 @@
+command_id: 7E0.7E8.2115
+test_cases:
+- expected_values:
+    MITSUBISHI_DPF_ODO: 0
+    MITSUBISHI_DPF_SOOT: 0
+  response: '7E80761150000000000'
+- expected_values:
+    MITSUBISHI_DPF_ODO: 33280
+    MITSUBISHI_DPF_SOOT: 0
+  response: '7E80761150082000000'
+- expected_values:
+    MITSUBISHI_DPF_ODO: 33536
+    MITSUBISHI_DPF_SOOT: 0
+  response: '7E80761150083000000'
+- expected_values:
+    MITSUBISHI_DPF_ODO: 35072
+    MITSUBISHI_DPF_SOOT: 0
+  response: '7E80761150089000000'
+- expected_values:
+    MITSUBISHI_DPF_ODO: 36096
+    MITSUBISHI_DPF_SOOT: 0
+  response: 7E8076115008D000000
