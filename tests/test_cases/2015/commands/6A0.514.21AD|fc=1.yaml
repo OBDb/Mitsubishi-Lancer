@@ -6,3 +6,9 @@ test_cases:
 - expected_values:
     MITSUBISHI_ODO: 64614
   response: 5140561AD66FC00
+- expected_values:
+    MITSUBISHI_ODO: 64631
+  response: 5140561AD77FC00
+- expected_values:
+    MITSUBISHI_ODO: 64632
+  response: 5140561AD78FC00

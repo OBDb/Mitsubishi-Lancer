@@ -12,3 +12,15 @@ test_cases:
 - expected_values:
     MITSUBISHI_AC_AAT: 33
   response: '5110761119233000000'
+- expected_values:
+    MITSUBISHI_AC_AAT: 34.5
+  response: 511076111952B000000
+- expected_values:
+    MITSUBISHI_AC_AAT: 35
+  response: '5110761119621000000'
+- expected_values:
+    MITSUBISHI_AC_AAT: 35
+  response: 511076111962F000000
+- expected_values:
+    MITSUBISHI_AC_AAT: 36
+  response: '5110761119833000000'

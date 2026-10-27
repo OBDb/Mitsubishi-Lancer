@@ -4,6 +4,9 @@ test_cases:
     MITSUBISHI_DASHBOARD_V: 12.1
   response: 5140361AF79
 - expected_values:
+    MITSUBISHI_DASHBOARD_V: 14
+  response: 5140361AF8C
+- expected_values:
     MITSUBISHI_DASHBOARD_V: 14.1
   response: 5140361AF8D
 - expected_values:
