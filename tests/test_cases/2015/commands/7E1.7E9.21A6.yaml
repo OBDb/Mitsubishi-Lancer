@@ -1,8 +1,17 @@
 command_id: 7E1.7E9.21A6
 test_cases:
 - expected_values:
+    MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 3
+  response: 7E90661A60003FCC1
+- expected_values:
+    MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 50
+  response: 7E90661A6003201C1
+- expected_values:
     MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 541
   response: 7E90661A6021D0599
 - expected_values:
     MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 1538
   response: 7E90661A606020013
+- expected_values:
+    MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 1850
+  response: 7E90661A6073A08D4

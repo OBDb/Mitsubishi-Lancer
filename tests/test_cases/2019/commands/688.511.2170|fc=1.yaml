@@ -5,6 +5,12 @@ test_cases:
   response: '5110761700000047800'
 - expected_values:
     MITSUBISHI_AC_A_C_COMPRESSOR_DRIVE_FLAG: 1
+  response: 5110761700100048B00
+- expected_values:
+    MITSUBISHI_AC_A_C_COMPRESSOR_DRIVE_FLAG: 1
+  response: 5110761700100048C00
+- expected_values:
+    MITSUBISHI_AC_A_C_COMPRESSOR_DRIVE_FLAG: 1
   response: 5110761700100048D00
 - expected_values:
     MITSUBISHI_AC_A_C_COMPRESSOR_DRIVE_FLAG: 1
