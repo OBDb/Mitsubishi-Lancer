@@ -1,6 +1,12 @@
 command_id: 688.511.2111|fc=1
 test_cases:
 - expected_values:
+    MITSUBISHI_AC_AAT: 16.5
+  response: '5110761117116000000'
+- expected_values:
+    MITSUBISHI_AC_AAT: 16.5
+  response: '5110761117117000000'
+- expected_values:
     MITSUBISHI_AC_AAT: 17
   response: '5110761117222000000'
 - expected_values:
