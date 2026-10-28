@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 1850
   response: 7E90661A6073A08D4
+- expected_values:
+    MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 64410
+  response: 7E90661A6FB9A0008
+- expected_values:
+    MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 64531
+  response: 7E90661A6FC130017
+- expected_values:
+    MITSUBISHI_CLUTCH_1_SLIP_AT_VSS: 64543
+  response: 7E90661A6FC1FFFFC
