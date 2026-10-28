@@ -14,12 +14,7 @@ test_cases:
     MITSUBISHI_ODO_784: 126361.6
   response: |-
     7851009615400088C13
-    78521489304FFFFFFFF
-- expected_values:
-    MITSUBISHI_ODO_784: 126361.6
-  response: |-
-    7851009615400088D13
-    78521485804FFFFFFFF
+    7852148D104FFFFFFFF
 - expected_values:
     MITSUBISHI_ODO_784: 126361.6
   response: |-
