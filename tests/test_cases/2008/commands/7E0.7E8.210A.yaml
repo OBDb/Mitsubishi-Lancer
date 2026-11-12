@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.210A
+test_cases:
+- expected_values:
+    MITSUBISHI_MPI_VVT_PHASE_ANGLE: -1.25
+  response: 7E807610A048F7E1000
+- expected_values:
+    MITSUBISHI_MPI_VVT_PHASE_ANGLE: -7.5
+  response: 7E807610A4035740FA0
