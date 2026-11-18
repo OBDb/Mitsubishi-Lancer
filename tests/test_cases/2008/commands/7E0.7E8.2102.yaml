@@ -2,9 +2,9 @@ command_id: 7E0.7E8.2102
 test_cases:
 - expected_values:
     MITSUBISHI_BP: 0
-    MITSUBISHI_MPI_ECT: 45
+    MITSUBISHI_MPI_ECT: 43
     MITSUBISHI_MPI_IAT: 18
-  response: 7E80761023A55000000
+  response: 7E80761023A53000000
 - expected_values:
     MITSUBISHI_BP: 0
     MITSUBISHI_MPI_ECT: 93
