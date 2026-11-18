@@ -2,6 +2,11 @@ command_id: 7E0.7E8.2110
 test_cases:
 - expected_values:
     MITSUBISHI_DPF_DIFF_P_7E0: -9.5
+    MITSUBISHI_DPF_T: 100
+    MITSUBISHI_EXH_GAS_T: 191
+  response: 7E8076110BF003C01F0
+- expected_values:
+    MITSUBISHI_DPF_DIFF_P_7E0: -9.5
     MITSUBISHI_DPF_T: 80
     MITSUBISHI_EXH_GAS_T: 201
   response: 7E8076110C90038018D
